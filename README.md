@@ -33,7 +33,7 @@ print(ds)
 
 ## Acknowledgement
 
-If you use the xentropy code in your published work, please kindly cite:
+If you use the xphasesync code in your published work, please kindly cite:
 
 Stuecker, M. F., Zhao, S., Timmermann, A., Ghosh, R., Semmler, T., Lee, S.-S., et al. (2025). Global climate mode resonance due to rapidly intensifying El Niño–Southern Oscillation. **Nature Communications**. in revision. 
 
