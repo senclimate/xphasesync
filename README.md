@@ -29,7 +29,7 @@ print(ds)
 ```
 
 ## Applications
-- ENSO phase synchronization changes (Fig. 4 and Supplementary Fig. 12 in Stuecker et al. 2025), an detailed example is available in [examples/phase_sync_illustration.ipynb](examples/phase_sync_illustration.ipynb)
+- ENSO phase synchronization changes (Fig. 4 and Supplementary Fig. 8 in Stuecker et al. 2025), an detailed example is available in [examples/phase_sync_illustration.ipynb](examples/phase_sync_illustration.ipynb)
 
 ## Acknowledgement
 
