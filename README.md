@@ -1,6 +1,13 @@
+
+
 # xphasesync
 
 Phase synchronization analysis of two time series using Numpy and Xarray
+
+> 📌 **Note:**  
+> If you use `xphasesync` in your published work, please cite:
+>
+> Stuecker, M. F., Zhao, S., Timmermann, A., Ghosh, R., Semmler, T., Lee, S.-S., Moon, J.-Y., Jin, F.-F., Jung, T. (2025). *Global climate mode resonance due to rapidly intensifying El Niño–Southern Oscillation.*  **Nature Communications**.
 
 
 ## Installation
@@ -8,6 +15,12 @@ Phase synchronization analysis of two time series using Numpy and Xarray
 ```bash
 pip install git+https://github.com/senclimate/xphasesync.git
 ```
+
+or
+
+```bash
+pip install xphasesync
+``
 
 ## Quick Start
 
@@ -30,12 +43,6 @@ print(ds)
 
 ## Applications
 - ENSO phase synchronization changes (Fig. 4 and Supplementary Fig. 8 in Stuecker et al. 2025), an detailed example is available in [examples/phase_sync_illustration.ipynb](examples/phase_sync_illustration.ipynb)
-
-## Acknowledgement
-
-If you use the xphasesync code in your published work, please kindly cite:
-
-Stuecker, M. F., Zhao, S., Timmermann, A., Ghosh, R., Semmler, T., Lee, S.-S., et al. (2025). Global climate mode resonance due to rapidly intensifying El Niño–Southern Oscillation. **Nature Communications**. in revision. 
 
 
 ## References
