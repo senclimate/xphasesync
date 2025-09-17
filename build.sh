@@ -27,12 +27,12 @@ elif [ "$MODE" = "test" ]; then
     echo "📤 Uploading to TestPyPI..."
     twine upload --repository testpypi dist/*
     echo "✅ Uploaded to TestPyPI. Install with:"
-    echo "    pip install -i https://test.pypi.org/simple XRO"
+    echo "    pip install -i https://test.pypi.org/simple xphasesync"
 elif [ "$MODE" = "pypi" ]; then
     echo "📤 Uploading to PyPI..."
     twine upload dist/*
     echo "✅ Uploaded to PyPI. Install with:"
-    echo "    pip install XRO"
+    echo "    pip install xphasesync"
 else
     echo "❌ Unknown mode: $MODE"
     echo "Usage: ./build.sh [local|test|pypi]"
