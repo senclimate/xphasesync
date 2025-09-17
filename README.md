@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1046296740.svg)](https://doi.org/10.5281/zenodo.17148051)
 
 
 # xphasesync
