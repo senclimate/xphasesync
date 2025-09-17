@@ -20,7 +20,8 @@ or
 
 ```bash
 pip install xphasesync
-``
+```
+
 
 ## Quick Start
 
