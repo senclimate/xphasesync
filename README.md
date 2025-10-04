@@ -8,7 +8,7 @@ Phase synchronization analysis of two time series using Numpy and Xarray
 > 📌 **Note:**  
 > If you use `xphasesync` in your published work, please cite:
 >
-> Stuecker, M. F., Zhao, S., Timmermann, A., Ghosh, R., Semmler, T., Lee, S.-S., Moon, J.-Y., Jin, F.-F., Jung, T. (2025). *Global climate mode resonance due to rapidly intensifying El Niño–Southern Oscillation.*  **Nature Communications**.
+> Stuecker, M. F., Zhao, S., Timmermann, A., Ghosh, R., Semmler, T., Lee, S.-S., Moon, J.-Y., Jin, F.-F., Jung, T. (2025). *Global climate mode resonance due to rapidly intensifying El Niño–Southern Oscillation.*  **Nature Communications**. https://doi.org/10.1038/s41467-025-64619-0
 
 
 ## Installation
